@@ -12,6 +12,7 @@
             "Monkey C: Set Products by Version" - Lets you add all producs that meet the
                                                     minimum SDK version of the application
             "Monkey C: Edit Products" - Lets you add or remove any product
+            Test Git Feature Branch
         -->
         <iq:products>
         </iq:products>
